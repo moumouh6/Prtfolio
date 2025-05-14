@@ -1,94 +1,57 @@
-# Mohamed Alem - Developer Portfolio
+# 💼 Mohamed Alem - Portfolio
 
-A modern, responsive portfolio website showcasing my skills, projects, and contact information.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-brightgreen)](https://moumouh6.github.io/Prtfolio/)
 
-![Portfolio Screenshot](https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80)
+## ✨ Présentation
 
-## 📋 Overview
+Bienvenue sur mon portfolio professionnel ! Ce site web présente mon parcours en tant que développeur Full Stack, mes compétences techniques et professionnelles, ainsi que mes projets récents.
 
-This portfolio site is designed to present my professional profile as a Full Stack Developer. It features a clean, modern design with smooth transitions and is fully responsive for all device sizes.
+**🔗 [Voir le portfolio en ligne](https://moumouh6.github.io/Prtfolio/)**
 
-## ✨ Features
+![Portfolio Preview](image/homee%20(1).png)
 
-- **Responsive Design**: Optimized for mobile, tablet, and desktop views
-- **Interactive UI**: Smooth scrolling, hover effects, and animations
-- **Modern Aesthetics**: Gradient accents, cards with shadows, and clean typography
-- **Sections Include**:
-  - Home/Hero
-  - About Me
-  - Skills (Technical & Professional)
-  - Projects
-  - Contact Form
-  - Footer with Social Links
+## 📋 À propos
 
-## 🛠️ Technologies Used
+Je suis **Mohamed Alem**, un développeur Full Stack passionné par la création d'applications web modernes et fonctionnelles. Titulaire d'une licence en informatique de l'USTHB, je poursuis actuellement mon Master. Mon objectif est de concevoir des solutions numériques innovantes qui répondent aux besoins des utilisateurs.
 
-- **HTML5** - Page structure and content
-- **CSS3** - Custom styling with gradients and animations
-- **Tailwind CSS** - Utility-first CSS framework
-- **JavaScript** - Interactive elements and smooth scrolling
-- **Font Awesome** - Icon library for visual elements
+## 🛠️ Technologies maîtrisées
 
-## 📚 Sections Detail
+### Frontend
+- HTML5 / CSS3
+- JavaScript
+- Tailwind CSS
+- Frameworks JS (React, Vue)
 
-### Home Section
-Introduction with name, title, and call-to-action buttons.
+### Backend
+- Python (FastAPI)
+- Bases de données SQL (PostgreSQL)
+- APIs RESTful
 
-### About Section
-Personal bio, education, and contact details.
+### Autres compétences
+- Gestion de version (Git)
+- Méthodologies agiles
+- Déploiement et CI/CD
 
-### Skills Section
-- **Technical Skills**: HTML5, CSS3, JavaScript, Python, PostgreSQL
-- **Professional Skills**: Problem Solving, Teamwork, Communication, Creativity
+## 📊 Projets
 
-### Projects Section
-Showcase of development projects with descriptions, technologies used, and links to live demos and code repositories.
+Le portfolio présente mes projets de développement récents, incluant:
+- **E-learning Platform**: Une plateforme complète de cours et conférences pour l'entreprise GIG Algeria
 
-### Contact Section
-Contact form and additional contact information including email, phone, and location.
+*Pour consulter tous mes projets, visitez mon portfolio ou mon [profil GitHub](https://github.com/moumouh6).*
 
-## 🚀 Setup and Installation
+## 📞 Contact
 
-1. **Clone the repository**
-   ```
-   git clone https://github.com/yourusername/portfolio.git
-   cd portfolio
-   ```
+Je suis ouvert aux opportunités professionnelles et aux collaborations sur des projets intéressants.
 
-2. **Open in browser**
-   - Simply open the `index.html` file in any modern web browser
+- 📧 **Email**: alemmohamed238@gmail.com
+- 📱 **Téléphone**: 0558 98 95 17
+- 📍 **Localisation**: Alger, Ain Benian
 
-3. **Development**
-   - Edit the HTML, CSS, and JavaScript files as needed
-   - The site uses CDN links for Tailwind CSS and Font Awesome, so no build process is required
-
-## 📂 Project Structure
-
-```
-portfolio/
-├── index.html          # Main HTML file
-├── image/              # Image directory
-│   └── photo.jpeg      # Profile photo
-├── README.md           # Project documentation
-```
-
-## 🔗 Links
-
-- GitHub: [github.com/moumouh6](https://github.com/moumouh6)
-- LinkedIn: [linkedin.com/in/mohamed-alem-b51588246](https://www.linkedin.com/in/mohamed-alem-b51588246/)
-- Instagram: [instagram.com/moumouh_alem](https://www.instagram.com/moumouh_alem/)
-
-## 🔄 Future Improvements
-
-- Add more project examples
-- Implement dark/light mode toggle
-- Add a blog section
-- Improve form functionality with server-side processing
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
+### Réseaux sociaux
+- [GitHub](https://github.com/moumouh6)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-alem-b51588246/)
+- [Instagram](https://www.instagram.com/moumouh_alem/)
 
 ---
 
-© 2025 Alem Mohamed. All rights reserved.
+© 2025 Mohamed Alem. Tous droits réservés.
