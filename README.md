@@ -8,7 +8,6 @@ Bienvenue sur mon portfolio professionnel ! Ce site web présente mon parcours e
 
 **🔗 [Voir le portfolio en ligne](https://moumouh6.github.io/Prtfolio/)**
 
-![Portfolio Preview](image/homee%20(1).png)
 
 ## 📋 À propos
 
